@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>de.kieselwerk.mixsmith</id>
+  <name>Mixsmith</name>
+  <summary>Mischen und Mastern nach Referenzsongs</summary>
+  <developer id="de.kieselwerk">
+    <name>Kieselwerk – Kay Seufferheld, Augsburg</name>
+  </developer>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <url type="homepage">https://kieselwerk.com</url>
+  <url type="vcs-browser">https://github.com/Kieselwerk/Mixsmith</url>
+  <description>
+    <p>Mixsmith mischt und mastert eigene Songs nach dem Vorbild von Referenzsongs: Mischpult, A/B-Vorschau, Spur-Angleich und KI-Stem-Trennung. Alles läuft lokal.</p>
+  </description>
+  <launchable type="desktop-id">mixsmith.desktop</launchable>
+  <releases>
+    <release version="@VER@" date="2026-10-12"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Mixsmith
+GenericName=Mixing und Mastering
+Comment=Mischen und Mastern nach Referenzsongs
+Exec=Mixsmith
+Icon=mixsmith
+Categories=AudioVideo;Audio;
+Terminal=false
+X-AppImage-Version=1.0.1
